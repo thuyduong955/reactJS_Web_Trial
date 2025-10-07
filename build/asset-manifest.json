@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6954b91.css",
+    "main.js": "/static/js/main.a4d6596a.js",
+    "static/js/453.117b0875.chunk.js": "/static/js/453.117b0875.chunk.js",
+    "static/media/summer.jpg": "/static/media/summer.ecb050d1c8cc0252bf49.jpg",
+    "index.html": "/index.html",
+    "main.a6954b91.css.map": "/static/css/main.a6954b91.css.map",
+    "main.a4d6596a.js.map": "/static/js/main.a4d6596a.js.map",
+    "453.117b0875.chunk.js.map": "/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6954b91.css",
+    "static/js/main.a4d6596a.js"
+  ]
+}
